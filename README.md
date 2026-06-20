@@ -69,6 +69,7 @@ English profile: This profile organizes public projects across technical study, 
 
 | Project | CN | EN | Stack / Topics |
 | --- | --- | --- | --- |
+| [dachuang-ms](https://github.com/galaxywk223/dachuang-ms) | 基于 Django 与 Vue 的大创项目管理平台，覆盖申报、审核、立项发布、数据中心、任务中心和统计驾驶舱。 | Dachuang project management platform using Django and Vue, covering application, review, publication, data center, task center, and analytics dashboard workflows. | Python, Django, Vue, PostgreSQL, project-management, workflow, dashboard |
 | [library-management-system](https://github.com/galaxywk223/library-management-system) | 基于 Spring Boot 3 与 Vue 3 的图书管理系统课程设计，覆盖图书编目、读者管理、借阅归还、罚款、采购入库和统计看板。 | Course project library management system using Spring Boot 3 and Vue 3, covering cataloging, readers, circulation, fines, purchasing, and dashboards. | Java, Spring Boot, Vue, TypeScript, MySQL, MyBatis-Plus |
 | [shopping-platform](https://github.com/galaxywk223/shopping-platform) | 基于 Spring Boot 3 与 Vue 3 的在线购物系统课程设计，覆盖商品浏览、购物车、订单支付、库存扣减和后台管理。 | Course project online shopping platform using Spring Boot 3 and Vue 3, covering products, carts, orders, payment flow, inventory, and admin management. | Java, Spring Boot, Vue, TypeScript, MySQL, JWT |
 | [attendance-system](https://github.com/galaxywk223/attendance-system) | 基于 .NET 8 WPF 与 SQLite 的学员考勤管理系统课程设计，覆盖排课、签到、请假、补签、审批和统计报表。 | Course project attendance management system using .NET 8 WPF and SQLite, covering scheduling, check-in, leave, correction, approval, and reporting. | C#, .NET, WPF, SQLite, Entity Framework, desktop-app |
