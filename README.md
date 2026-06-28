@@ -2,9 +2,9 @@
 
 **Anhui University of Technology**
 
-公开项目主要围绕机器学习实验、控制优化原型、学习系统和开发工具展开。仓库内容既包括可复现实验、竞赛方案和研究型基准，也包括面向本地使用的完整应用系统。
+公开项目主要围绕机器学习实验、竞赛方案、学习笔记、学习系统和开发工具展开。仓库内容既包括可复现实验和课程项目，也包括面向本地使用的完整应用系统。
 
-Public repositories here focus on machine learning experiments, control and optimization prototypes, learning systems, and developer tools.
+Public repositories here focus on machine learning experiments, competition solutions, study notes, learning systems, and developer tools.
 
 [GitHub Profile](https://github.com/galaxywk223)
 
@@ -15,24 +15,6 @@ Public repositories here focus on machine learning experiments, control and opti
 NVIDIA Nemotron Model Reasoning Challenge 的 Kaggle 银牌方案，围绕 `Nemotron-3-Nano-30B` 的 rank-32 LoRA SFT、CoT 样本构造、适配器实验和最终 Private LB #167 结果展开。
 
 A silver-medal Kaggle reasoning solution built around LoRA fine-tuning, adapter experiments, and submission automation.
-
-### [robust-battery-mpc](https://github.com/galaxywk223/robust-battery-mpc)
-
-退化感知鲁棒 MPC 电池套利实验，围绕电价预测下的充放电决策、退化建模和风险收益权衡展开。项目保留了 MILP 调度实现、bootstrap 评估和主要结果表。
-
-Degradation-aware robust MPC for battery arbitrage under electricity price forecasts.
-
-### [contract-aware-rh-control-benchmark](https://github.com/galaxywk223/contract-aware-rh-control-benchmark)
-
-面向可部署滚动时域控制评估的契约感知基准。项目比较 battery arbitrage、BOPTEST building control 和 inventory control 等任务下，评价契约变化如何影响控制器排序和稳定性判断。
-
-A contract-aware benchmark for deployable receding-horizon control evaluation.
-
-### [ordered-shift-policy-selection](https://github.com/galaxywk223/ordered-shift-policy-selection)
-
-面向有序分布偏移的策略选择实验，重点放在可解释阈值和区间选择器。项目关注部署偏移下如何从候选策略中做更稳健的选择。
-
-Interpretable threshold and interval selectors for ordered-shift policy selection.
 
 ### [DeepLearning-Study-and-Experiments](https://github.com/galaxywk223/DeepLearning-Study-and-Experiments)
 
